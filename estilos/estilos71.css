@@ -1,0 +1,11 @@
+.divi {
+    height: 60px ;
+    background-color:yellowgreen;
+    margin-bottom:10px ;
+  
+}
+
+.nuevo {
+    display: inline-flex;
+    align-content: space-between;
+}
